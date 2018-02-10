@@ -1,0 +1,6 @@
+C:\Users\marti\Desktop\PrimeHoldingImage\PrimeHoldingImage\bin\Debug\PrimeHoldingImage.dll
+C:\Users\marti\Desktop\PrimeHoldingImage\PrimeHoldingImage\bin\Debug\PrimeHoldingImage.pdb
+C:\Users\marti\Desktop\PrimeHoldingImage\PrimeHoldingImage\obj\Debug\PrimeHoldingImage.csproj.CoreCompileInputs.cache
+C:\Users\marti\Desktop\PrimeHoldingImage\PrimeHoldingImage\obj\Debug\PrimeHoldingImage.dll
+C:\Users\marti\Desktop\PrimeHoldingImage\PrimeHoldingImage\obj\Debug\PrimeHoldingImage.pdb
+C:\Users\marti\Desktop\PrimeHoldingImage\PrimeHoldingImage\obj\Debug\PrimeHoldingImage.csprojResolveAssemblyReference.cache

@@ -1,0 +1,9 @@
+C:\Users\marti\Desktop\PrimeHoldingImage\PrimeHoldingImage.ConsoleApp\bin\Debug\PrimeHoldingImage.ConsoleApp.exe.config
+C:\Users\marti\Desktop\PrimeHoldingImage\PrimeHoldingImage.ConsoleApp\bin\Debug\PrimeHoldingImage.ConsoleApp.exe
+C:\Users\marti\Desktop\PrimeHoldingImage\PrimeHoldingImage.ConsoleApp\bin\Debug\PrimeHoldingImage.ConsoleApp.pdb
+C:\Users\marti\Desktop\PrimeHoldingImage\PrimeHoldingImage.ConsoleApp\bin\Debug\PrimeHoldingImage.dll
+C:\Users\marti\Desktop\PrimeHoldingImage\PrimeHoldingImage.ConsoleApp\bin\Debug\PrimeHoldingImage.pdb
+C:\Users\marti\Desktop\PrimeHoldingImage\PrimeHoldingImage.ConsoleApp\obj\Debug\PrimeHoldingImage.ConsoleApp.csprojResolveAssemblyReference.cache
+C:\Users\marti\Desktop\PrimeHoldingImage\PrimeHoldingImage.ConsoleApp\obj\Debug\PrimeHoldingImage.ConsoleApp.csproj.CoreCompileInputs.cache
+C:\Users\marti\Desktop\PrimeHoldingImage\PrimeHoldingImage.ConsoleApp\obj\Debug\PrimeHoldingImage.ConsoleApp.exe
+C:\Users\marti\Desktop\PrimeHoldingImage\PrimeHoldingImage.ConsoleApp\obj\Debug\PrimeHoldingImage.ConsoleApp.pdb
